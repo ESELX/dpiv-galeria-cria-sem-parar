@@ -17,7 +17,7 @@ group_number: ""
 
 # Cria Sem Parar
 
-> Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
+> - **Criamos novas possibilidades de brincar a partir daquilo que antes era desperdiçado.**
 
 ## Elementos do Grupo
 
