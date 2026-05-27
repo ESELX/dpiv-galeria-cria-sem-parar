@@ -52,8 +52,18 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
-  <a class="gallery-card" href="produtos/_modelo/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+  <a class="gallery-card" href="produtos/beatriz/">
+    <img src="produtos/beatriz/attachments/hero.jpg" alt="" />
+    <h3>Nome do Produto</h3>
+    <p>Nome do Aluno</p>
+  </a>
+  <a class="gallery-card" href="produtos/ema/">
+    <img src="produtos/ema/attachments/hero.jpg" alt="" />
+    <h3>Nome do Produto</h3>
+    <p>Nome do Aluno</p>
+  </a>
+   <a class="gallery-card" href="produtos/matilde/">
+    <img src="produtos/matilde/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
     <p>Nome do Aluno</p>
   </a>
