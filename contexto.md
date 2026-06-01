@@ -79,3 +79,13 @@ Os braços, as pernas e a cauda permitem criar diversos pontos de apoio, tornand
 Em baixo, está o painel de referências visuais e conceptuais que orientou o desenvolvimento da marca e dos brinquedos NESTOR. Reúne inspirações ligadas ao design aliado à pedagogia infantil, contribuindo para a definição da linguagem formal, cromática e funcional do projeto.
 Formalmente, tivemos Enzo Mari, Bernardo Carvalho e Yara Kono como referências diretas.
 ![Moodboard](NESTOR%20mood%20board.png)
+ ### **Embalagem**
+ A embalagem foi concebida para ser comum a toda a coleção NESTOR, garantindo consistência visual, otimização de produção e redução de custos. 
+ A caixa exterior mantém a mesma estrutura e linguagem gráfica para todas as linhas de produto, sendo diferenciada apenas através da cor e identificação da coleção: **Flora**, **Amigos** ou **Frutas**.
+
+A principal adaptação ocorre no interior da embalagem, através de uma cama de encaixe desenvolvida especificamente para cada brinquedo. Na imagem podemos ver  a cama do produto **Frutas**
+Esta solução permite acomodar as peças de forma segura durante o transporte, protegendo os componentes e facilitando a sua organização. A utilização de uma estrutura exterior comum, combinada com interiores personalizados, reforça a lógica modular e sustentável do projeto, que visa reduzir o desperdício.
+
+Para personalizar e distinguir os produtos, desenvolvemos uma manga que identificasse cada gama e estivesse alinhada com a identidade visual construída.
+Por dentro, existe um autocolante com a marca, nome do produto e uma frase descritiva da linha em questão.
+![[cortante.jpg|Pasted image 20260601134325.png]]![[manga e autocolante.jpg|Pasted image 20260601134331.png]]![[mock up caixa.jpg|Pasted image 20260601134337.png]]
