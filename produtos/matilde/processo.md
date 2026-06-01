@@ -20,7 +20,7 @@ published: true
 
 Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
-![Protótipo final](attachments/placeholder.png)
+![[NESTOR mood board.png|Protótipo final]]
 ![](attachments/placeholder.png)
 
 ## 2. Processo de Prototipagem
