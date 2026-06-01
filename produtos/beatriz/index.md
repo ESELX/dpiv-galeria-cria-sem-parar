@@ -57,7 +57,7 @@ A configuração final é composta por uma base curva e por um conjunto de peça
 
 - Modelo 3D: 
 [https://a360.co/4edfcpI](https://a360.co/4edfcpI)
-- Ficheiros: `attachments/`
+- Ficheiros:
 
 ## Função
 O brinquedo funciona através de uma base curva de equilíbrio sobre a qual são colocadas as três figuras de macacos. O desafio consiste em distribuir e posicionar as peças de forma a manter a estabilidade do conjunto, explorando diferentes combinações.
