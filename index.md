@@ -1,17 +1,17 @@
 ---
-title: "Nome do Grupo"
+title: Nome do Grupo
 icon: lucide/users
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Pó Pó"
-hero_subtitle: "Carrinhos de Madeira"
+hero_title: Pó Pó
+hero_subtitle: Carrinhos de Madeira
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
 published: true
-course: "DesignDeProdutoIV"
-group_name: ""
+course: DesignDeProdutoIV
+group_name: Cria sem parar
 group_number: ""
 ---
 

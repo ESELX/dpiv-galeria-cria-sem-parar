@@ -31,7 +31,7 @@ Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
 Embed do Fusion (visualização do modelo paramétrico).
 
-https://a360.co/4nqYoPa
+[https://a360.co/4nqYoPa](https://a360.co/3RTPa28)
 
 ## 5. Outros Modelos
 

@@ -1,11 +1,11 @@
 ---
-title: "Nome do Produto"
+title: Nome do Produto
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome do Produto"
-hero_subtitle: "Nome do Aluno · 2025-26"
+hero_title: Flora
+hero_subtitle: Matilde Salgado 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
@@ -21,10 +21,9 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Frase-conceito (uma linha): qual é a proposta?
+>  - **Construir flores, descobrir formas, criar possibilidades.**
+- **A natureza como ponto de partida para brincar.
 
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
@@ -54,7 +53,7 @@ O brinquedo é produzido em bambu de 6 mm, escolhido pela sua resistência, leve
 O desenvolvimento formal e técnico do brinquedo foi realizado através do programa Fusion, permitindo adaptar dimensões e encaixes de acordo com diferentes necessidades de produção.
 Trabalhei utilizando o Autodesk Fusion, e posteriormete trabalhar as fromas no Illustrator.
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
+- Modelo 3D: <[https://a360.co/4nqYoPa](https://a360.co/3RTPa28)
 - Ficheiros: `attachments/`
 
 ## Função

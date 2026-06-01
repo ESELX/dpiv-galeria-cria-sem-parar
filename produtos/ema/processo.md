@@ -31,7 +31,7 @@ Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
 Embed do Fusion (visualização do modelo paramétrico).
 
-https://a360.co/4nqYoPa
+[https://a360.co/4nqYoPa](https://a360.co/4vlQaKY)
 
 ## 4. Outros Modelos
 
@@ -40,10 +40,7 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 ![[maqueteema.jpeg]]
 
 ## 6. Esboços e Pranchas-Resumo
-
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
+(do mais recente para o mais antigo)
 
 ![[pranhcaresumo.png]]
 ![[prancharesumoinicialema.jpeg|Pasted image 20260601115633.png]]
