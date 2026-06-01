@@ -61,17 +61,17 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
   <a class="gallery-card" href="produtos/beatriz/">
-    <img src="produtos/beatriz/attachments/hero.jpg" alt="" />
+    <img src="produtos/beatriz/attachments/amigosbeatriz.jpeg" alt="" />
     <h3>Amigos</h3>
     <p>Beatriz Domingues</p>
   </a>
   <a class="gallery-card" href="produtos/ema/">
-    <img src="produtos/ema/attachments/hero.jpg" alt="" />
+    <img src="produtos/ema/attachments/frutaema.jpeg" alt="" />
     <h3>Frutas</h3>
     <p>Ema Perez</p>
   </a>
    <a class="gallery-card" href="produtos/matilde/">
-    <img src="produtos/matilde/attachments/hero.jpg" alt="" />
+    <img src="produtos/matilde/attachments/floramatilde.jpeg" alt="" />
     <h3>Flora</h3>
     <p>Matilde Salgado</p>
   </a>
