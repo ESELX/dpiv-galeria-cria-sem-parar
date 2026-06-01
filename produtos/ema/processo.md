@@ -20,33 +20,24 @@ published: true
 
 Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
-![Protótipo final](attachments/placeholder.png)
+![[brinquedofruta ema 1.png|Protótipo final]]
+![[brinquedofrutaiiema 2.png]]
+
+
+![632](attachments/placeholder.png)
 ![](attachments/placeholder.png)
 
-## 2. Processo de Prototipagem
-
-Maquinação CNC, montagem, acabamentos pontuais. 
-
-![](attachments/placeholder.png)
-
-
-## 3. Protótipos Exploratórios
-
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
-
-![](attachments/placeholder.png)
-
-## 4. Modelos 3D
+## 3. Modelos 3D
 
 Embed do Fusion (visualização do modelo paramétrico).
 
 https://a360.co/4nqYoPa
 
-## 5. Outros Modelos
+## 4. Outros Modelos
 
 Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
-![](attachments/placeholder.png)
+![[maqueteema.jpeg]]
 
 ## 6. Esboços e Pranchas-Resumo
 
@@ -54,20 +45,26 @@ Desenhos manuais,
 pranchas A3 de síntese, 
 exploração de variantes.
 
-![](attachments/placeholder.png)
+![[pranhcaresumo.png]]
+![[prancharesumoinicialema.jpeg|Pasted image 20260601115633.png]]
+![[esboçosema.jpeg|Pasted image 20260601115701.png]]
+![[esboçosii.jpeg|Pasted image 20260601115728.png]]
 
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-![](attachments/placeholder.png)
+A forma da pera foi analisada e simplificada através da sua decomposição em volumes circulares de diferentes diâmetros. Esta desconstrução permitiu criar um sistema modular constituído por oito peças empilháveis, mantendo a identidade visual da fruta ao mesmo tempo que possibilita novas combinações e interpretações formais. Ao contrário dos brinquedos de empilhamento tradicionais, que normalmente conduzem a uma única solução final, o sistema desenvolvido permite múltiplas configurações. A pera funciona como ponto de partida para a criação de outras frutas e formas imaginárias, incentivando a criatividade e a experimentação.
+![[parteemamood board.png]]
 
 ### 7.2. Objetos de referencia
 
-Inventário de precedentes, brinquedos análogos, referências históricas.
-
-![](attachments/placeholder.png)
+O projeto inspira-se nos brinquedos de empilhamento em madeira associados à pedagogia Montessori, destacando a simplicidade formal, a interação manual e a aprendizagem através da exploração. A forma da pera serviu como referência para o desenvolvimento do sistema modular, permitindo criar uma figura reconhecível e, simultaneamente, múltiplas combinações e formas imaginárias.
+![[parteemabrinquedos.png]]
 
 ## 9. Outros Elementos
+O desenvolvimento do projeto foi inspirado por diversas referências do design, da ilustração e do brinquedo educativo. Destacam-se o trabalho da Maria Montessori, pela pedagogia utilizada, da exploração sensorial das crianças e da construção livre.
 
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
+A nível visual, as ilustrações de Bernardo Carvalho, Enzo Mari inspiraram a simplificação formal, as formas orgânicas.
+
+Paralelamente fiz pesquisa acerca dos princípios da pedagogia Montessori, que valoriza a autonomia, a exploração sensorial e a aprendizagem através da experiência prática. Tal como nos materiais Montessori, o meu brinquedo tem como objetivo as crianças fazerem várias combinações de formas com as peças do meu brinquedo para explorarem a criatividade a motricidade fina .

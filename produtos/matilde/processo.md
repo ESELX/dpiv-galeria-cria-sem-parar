@@ -46,7 +46,8 @@ Durante o meu processo de trabalho, construí um protótipo de cartão com o int
 ![[pranchadois.png|Pasted image 20260601112556.png]]
 ![[pranchaum.png|Pasted image 20260601112924.png]]
 
-
+![[esboço.jpg|Pasted image 20260601115815.png]]
+![[segundoesboço.jpg|Pasted image 20260601115827.png]]
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
@@ -63,7 +64,7 @@ Procurei também diferentes brinquedos com diferentes sistemas de encaixe e outr
 
 ## 9. Outros Elementos
 
-O desenvolvimento do projeto foi influenciado por diversas referências do design, da ilustração e do brinquedo educativo. Destacam-se os trabalhos de Enzo Mari e da Nora Puzzle, pela exploração da modularidade, dos sistemas de encaixe e da construção livre.
+O desenvolvimento do projeto foi influenciado por diversas referências do design, da ilustração e de brinquedos educativos. Destacam-se os trabalhos de Enzo Mari e da Nora Puzzle, pela exploração da modularidade, dos sistemas de encaixe e da construção livre.
 
 A nível visual, as ilustrações de Bernardo Carvalho, Yara Kono e Ekaterina Trukhan inspiraram a simplificação formal, as formas orgânicas e a representação de elementos naturais.
 
