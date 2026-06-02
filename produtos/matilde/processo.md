@@ -42,8 +42,11 @@ Durante o meu processo de trabalho, construí um protótipo de cartão com o int
 ## 6.Esboços e Pranchas-Resumo
 (mais recente para o mais antigo)
 
-![](attachments.pranchatres.png)
-![](attachments/pranchatres.png)![](attachments/segundoesboço.jpg)
+
+![610](attachments/pranchatres.png)
+![630](attachments/pranchadois.png)
+
+![](attachments/pranchaum.png)![](attachments/segundoesboço.jpg)
 
 ![](attachments/esboço.jpg)
 ## 7. Pesquisa
