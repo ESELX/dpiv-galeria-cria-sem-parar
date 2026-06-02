@@ -57,7 +57,7 @@ More than a toy, NESTOR proposes a reflection on the relationship between design
 
 Catálogo de objetos de partida que o grupo identificou para o redesenho. Para cada objeto: imagem, origem, motivo da escolha.
 
-![[objetos.png|Objeto 1]]
+![](attachments/objetos.png)
 
 - **Tazos** — Os tazos surgiram na década de 1990 como pequenos discos colecionáveis distribuídos principalmente em embalagens de snacks e cereais. Inspirados no jogo tradicional havaiano milk caps, tornaram-se um fenómeno global entre crianças e marcaram uma geração. Para além do jogo em si, os tazos destacavam-se pela possibilidade de troca, combinação e personalização, incentivando a interação social e a criatividade infantil.
 
@@ -78,7 +78,7 @@ Os braços, as pernas e a cauda permitem criar diversos pontos de apoio, tornand
 
 Em baixo, está o painel de referências visuais e conceptuais que orientou o desenvolvimento da marca e dos brinquedos NESTOR. Reúne inspirações ligadas ao design aliado à pedagogia infantil, contribuindo para a definição da linguagem formal, cromática e funcional do projeto.
 Formalmente, tivemos Enzo Mari, Bernardo Carvalho e Yara Kono como referências diretas.
-![Moodboard](NESTOR%20mood%20board.png)
+![](attachments/nestormoodboard.png)
  ### **Embalagem**
  A embalagem foi concebida para ser comum a toda a coleção NESTOR, garantindo consistência visual, otimização de produção e redução de custos. 
  A caixa exterior mantém a mesma estrutura e linguagem gráfica para todas as linhas de produto, sendo diferenciada apenas através da cor e identificação da coleção: **Flora**, **Amigos** ou **Frutas**.
@@ -88,4 +88,7 @@ Esta solução permite acomodar as peças de forma segura durante o transporte, 
 
 Para personalizar e distinguir os produtos, desenvolvemos uma manga que identificasse cada gama e estivesse alinhada com a identidade visual construída.
 Por dentro, existe um autocolante com a marca, nome do produto e uma frase descritiva da linha em questão.
-![[cortante.jpg|Pasted image 20260601134325.png]]![[manga e autocolante.jpg|Pasted image 20260601134331.png]]![[mock up caixa.jpg|Pasted image 20260601134337.png]]
+![](attachments/cortante.jpg)
+
+![](attachments/mangaautocolante.jpg)
+![](attachments/mockupcaixa.jpg)

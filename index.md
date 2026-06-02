@@ -30,7 +30,7 @@ group_number: ""
 ---
 
 ## Contexto de Design
-![[todos.png|NESTOR mood board.png]]
+![](attachments/todos.png)
 >Apesar de integrarem diferentes linhas temáticas — **Flora**, **Amigos** e **Fruta** — os três brinquedos partilham os mesmos princípios conceptuais, pedagógicos e construtivos. Todos foram desenvolvidos a partir de sistemas modulares em bambu produzidos através de corte CNC, utilizando encaixes simples que permitem à criança montar, desmontar e explorar diferentes possibilidades de interação.
 
 O projeto inspira-se nos princípios da **pedagogia Montessori**, que valoriza a autonomia, a experimentação e a aprendizagem através da manipulação direta dos objetos. Tal como nos materiais Montessori, os brinquedos incentivam a descoberta ativa, permitindo que a criança explore livremente as formas, os encaixes e as combinações possíveis ao seu próprio ritmo.
