@@ -21,7 +21,8 @@ published: true
 Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
 ![](attachments/fotoi.png)
-![](attachments/fotoii.png)## 2. Modelos 3D
+![](attachments/fotoii.png)
+## 2. Modelos 3D
 
 Embed do Fusion (visualização do modelo paramétrico).
 

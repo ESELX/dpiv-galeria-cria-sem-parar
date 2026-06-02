@@ -3,7 +3,7 @@ title: Nome do Produto
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/foto 1.jpeg
+hero_image: attachments/fotoi.png
 hero_title: Flora
 hero_subtitle: Matilde Salgado 2025-26
 hero_height: 80vh
@@ -35,8 +35,7 @@ Dirigido a crianças entre os 3 e os 6 anos, quis proporcionar uma brincadeira e
 
 Tal como os restantes produtos da marca, o acabamento neutro das peças permite ainda que estas possam ser posteriormente pintadas ou decoradas pelas crianças, incentivando a expressão artística e prolongando o tempo de interação com o objeto.
 
-![[attachments/prancha final.png]]
-
+![](attachments/pranchafinal.png)
 ## Enquadramento
 
 O projeto enquadra-se no contexto sustentável e modular do NESTOR, explorando o reaproveitamento de material excedente da indústria do mobiliário através do processo de nesting. As peças são produzidas a partir de áreas não utilizadas dos planos de corte CNC, transformando desperdício em objetos lúdicos e educativos.
@@ -68,8 +67,8 @@ O projeto procura respeitar os princípios da Diretiva 2009/48/CE relativa à se
 
 Imagens-chave que sintetizam o produto final.
 
-![[fotoi.png]]
-![[fotoii.png]]
+![](attachments/fotoi.png)
+![](attachments/fotoii.png)
 
 ---
 
