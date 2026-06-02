@@ -20,11 +20,11 @@ published: true
 
 Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
-![[brinquedofruta ema 1.png|Protótipo final]]
+![](attachments/brinquedofrutaema.png)
 ![[brinquedofrutaiiema 2.png]]
 
 
-![632](attachments/placeholder.png)
+![632](attachments/brinquedofrutaiiema.png)
 ![](attachments/placeholder.png)
 
 ## 3. Modelos 3D

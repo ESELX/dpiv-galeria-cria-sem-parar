@@ -66,8 +66,8 @@ O projeto procura respeitar os princípios da Diretiva 2009/48/CE relativa à se
 
 Imagens-chave que sintetizam o produto final.
 
-![[brinquedofrutaema .png]]
-![[brinquedofrutaiiema 2.png]]
+![](attachments/brinquedofrutaema.png)
+![[brinquedofrutaema)]]
 ![[brinquedofruta ema 1.png|Pasted image 20260601115452.png]]---
 
 ## Processo

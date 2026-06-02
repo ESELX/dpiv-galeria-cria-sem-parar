@@ -35,7 +35,7 @@ Dirigido a crianças entre os 3 e os 6 anos, quis proporcionar uma brincadeira e
 
 Tal como os restantes produtos da marca, o acabamento neutro das peças permite ainda que estas possam ser posteriormente pintadas ou decoradas pelas crianças, incentivando a expressão artística e prolongando o tempo de interação com o objeto.
 
-![[prancha final.png]]
+![[attachments/prancha final.png]]
 
 ## Enquadramento
 
@@ -68,7 +68,7 @@ O projeto procura respeitar os princípios da Diretiva 2009/48/CE relativa à se
 
 Imagens-chave que sintetizam o produto final.
 
-![[foto 1.png]]
+![[attachments/foto 1.png]]
 ![[foto 2.png]]
 
 ---
