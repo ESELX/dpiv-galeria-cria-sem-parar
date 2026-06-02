@@ -68,8 +68,8 @@ O projeto procura respeitar os princípios da Diretiva 2009/48/CE relativa à se
 
 Imagens-chave que sintetizam o produto final.
 
-![[attachments/foto 1.png]]
-![[foto 2.png]]
+![[fotoi.png]]
+![[fotoii.png]]
 
 ---
 

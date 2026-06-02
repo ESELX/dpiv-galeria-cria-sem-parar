@@ -20,14 +20,8 @@ published: true
 
 Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
-![[foto 1.png|Protótipo final]]
-![[foto 2.png]]
-
-
-
-![237](attachments/placeholder.png)
-
-## 2. Modelos 3D
+![](attachments/fotoi.png)
+![](attachments/fotoii.png)## 2. Modelos 3D
 
 Embed do Fusion (visualização do modelo paramétrico).
 
@@ -35,18 +29,26 @@ Embed do Fusion (visualização do modelo paramétrico).
 
 ## 5. Outros Modelos
 
-Durante o meu processo de trabalho, construí um protótipo de cartão com o intuito de explorar diferentes possibilidades formais, tamanhos e encaixes.![[maquete.jpeg|attachments/placeholder.png]]
-![[maqueteestudo.jpeg|attachments/placeholder.png]]
-![[maqueteiii.jpeg|maqueteii.jpeg]]
+Durante o meu processo de trabalho, construí um protótipo de cartão com o intuito de explorar diferentes possibilidades formais, tamanhos e encaixes.
+
+
+![](attachments/maqueteiii.jpeg)![](attachments/maqueteestudo.jpeg)
+![](attachments/maqueteii.jpeg)
+![](attachments/maquete.jpeg)
 
 ## 6.Esboços e Pranchas-Resumo
 (mais recente para o mais antigo)
 
 
-![610](attachments/pranchatres.png)
-![630](attachments/pranchadois.png)
+![](attachments/pranchafinal.png)
 
-![](attachments/pranchaum.png)![](attachments/segundoesboço.jpg)
+
+![](attachments/pranchatres.png)
+![](attachments/pranchadois.png)
+
+
+![](attachments/pranchaum.png)
+![](attachments/segundoesboço.jpg)
 
 ![](attachments/esboço.jpg)
 ## 7. Pesquisa
