@@ -47,7 +47,7 @@ Durante o meu processo de trabalho, construí um protótipo de cartão com o int
 ![[pranchaum.png|Pasted image 20260601112924.png]]
 
 ![[esboço.jpg|Pasted image 20260601115815.png]]
-![[segundoesboço.jpg|Pasted image 20260601115827.png]]
+![](attachments/esboço.jpg)
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
