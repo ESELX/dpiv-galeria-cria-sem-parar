@@ -41,18 +41,16 @@ Durante o meu processo de trabalho, construí um protótipo de cartão com o int
 
 ## 6.Esboços e Pranchas-Resumo
 (mais recente para o mais antigo)
-![[prancha final.png]]
-![[pranchatres.png|697]]
-![[pranchadois.png|Pasted image 20260601112556.png]]
-![[pranchaum.png|Pasted image 20260601112924.png]]
 
-![[esboço.jpg|Pasted image 20260601115815.png]]
+![](attachments.pranchatres.png)
+![](attachments/pranchatres.png)![](attachments/segundoesboço.jpg)
+
 ![](attachments/esboço.jpg)
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-![[desconstrucaoforma.png]]
+![](attachments/desconstrucaoforma.png)
 
 ### 7.2. Objetos de referencia
 
@@ -60,7 +58,7 @@ Uma das referências mais relevantes a nível de investigação e pesquisa foi o
 A nível histórico, analisei o fenómeno dos Milk Caps, jogo tradicional havaiano que inspirou os tazos. 
 Procurei também diferentes brinquedos com diferentes sistemas de encaixe e outros que tivessem flores como ponto de partida.
 
-![[pesquisa.png]]
+![](attachments/pesquisa.png)
 
 ## 9. Outros Elementos
 
