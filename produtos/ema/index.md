@@ -34,7 +34,7 @@ Dirigido a crianças entre os 3 e os 6 anos, o brinquedo procura estimular a cri
 
 Tal como os restantes produtos da marca, as peças apresentam um acabamento neutro, possibilitando que sejam posteriormente pintadas ou decoradas pelas crianças. Esta característica reforça a componente lúdica e educativa do brinquedo, incentivando a expressão artística e prolongando o tempo de interação com o objeto através da personalização das suas próprias criações.
 
-![[pranhcaresumo.png]]
+![](attachments/pranhcaresumo.png)
 
 ## Enquadramento
 
