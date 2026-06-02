@@ -21,12 +21,8 @@ published: true
 Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
 ![[composiçãobeatrizi.png|Protótipo final]]
-![[composiçãobeatrizii.png]]
+![](attachments/composiçãobeatrizii.png)
 
-
-
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
 
 ## 3. Modelos 3D
 
@@ -44,7 +40,7 @@ Desenhos manuais,
 pranchas A3 de síntese, 
 exploração de variantes.
 
-![[esboçosbeatriz.jpeg]]
+![](attachments/esboçosbeatriz.jpeg)
 
 ## 7. Pesquisa
 
@@ -57,11 +53,12 @@ A forma do produto distingue-se pela combinação de uma base curva e várias pe
 Foram valorizadas as formas, evitando arestas agressivas para uma linguagem visual mais segura. A simplicidade facilita também a compreensão do funcionamento do brinquedo, permitindo que a criança descubra as regras através da exploração.
 
 Desta forma, o programa formal distingue-se pela união entre uma estética simples e lúdica e uma função educativa, promovendo o desenvolvimento cognitivo, a coordenação motora e a capacidade de resolução de problemas através do jogo.
-![[moodboardbeatriz.png]]
+
+![](attachments/moodboardbeatriz.png)
 
 ### 7.2. Objetos de referencia
 
 Uma referência importante para o desenvolvimento deste projeto foi Enzo Mari, designer italiano reconhecido pelos seus brinquedos educativos e pela sua abordagem funcional ao design. Os seus projetos caracterizam-se pela simplicidade formal, pela utilização de materiais naturais e pela valorização da interação entre o utilizador e o objeto. Na representação simplificada dos macacos e na procura por uma experiência lúdica que estimule a curiosidade.
 
-![[brinquedosbeatriz.png]]
+![](attachments/brinquedosbeatriz.png)
 

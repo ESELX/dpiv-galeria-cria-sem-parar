@@ -35,7 +35,7 @@ Destinado a crianças entre os 3 e os 6 anos, o brinquedo procura estimular a co
 
 Tal como os restantes produtos da marca NESTOR, as peças apresentam um acabamento natural que pode ser posteriormente personalizado pelas crianças através da pintura, prolongando a interação com o objeto e aumentando a criatividade.
 
-![[pranhcaresumobeatriz.png]]
+![](attachments/moodboardbeatriz.png)
 
 ## Enquadramento
 
@@ -70,8 +70,8 @@ Destinado a crianças entre os 3 e os 6 anos, o produto foi desenvolvido segundo
 
 Imagens-chave que sintetizam o produto final.
 
-![[composiçãobeatrizi.png]]
-![[composiçãobeatrizii.png]]
+![](attachments/composiçãobeatrizii.png)
+
 
 ---
 

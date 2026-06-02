@@ -21,11 +21,11 @@ published: true
 Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
 ![](attachments/brinquedofrutaema.png)
-![[brinquedofrutaiiema 2.png]]
+![](attachments/brinquedofrutaiiemaii.png)
 
 
 ![632](attachments/brinquedofrutaiiema.png)
-![](attachments/placeholder.png)
+![](attachments/brinquedofrutaemai.png)
 
 ## 3. Modelos 3D
 
@@ -37,27 +37,28 @@ Embed do Fusion (visualização do modelo paramétrico).
 
 Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
-![[maqueteema.jpeg]]
+![](attachments/maqueteema.jpeg)
 
 ## 6. Esboços e Pranchas-Resumo
 (do mais recente para o mais antigo)
 
-![[pranhcaresumo.png]]
-![[prancharesumoinicialema.jpeg|Pasted image 20260601115633.png]]
-![[esboçosema.jpeg|Pasted image 20260601115701.png]]
-![[esboçosii.jpeg|Pasted image 20260601115728.png]]
+![](attachments/pranhcaresumo.png)
+![](attachments/prancharesumoinicialema.jpeg)
+![](attachments/esboçosema.jpeg)
+![](attachments/esboçosii.jpeg)
 
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
 A forma da pera foi analisada e simplificada através da sua decomposição em volumes circulares de diferentes diâmetros. Esta desconstrução permitiu criar um sistema modular constituído por oito peças empilháveis, mantendo a identidade visual da fruta ao mesmo tempo que possibilita novas combinações e interpretações formais. Ao contrário dos brinquedos de empilhamento tradicionais, que normalmente conduzem a uma única solução final, o sistema desenvolvido permite múltiplas configurações. A pera funciona como ponto de partida para a criação de outras frutas e formas imaginárias, incentivando a criatividade e a experimentação.
-![[parteemamood board.png]]
+
+![](attachments/parteemamoodboard.png)
 
 ### 7.2. Objetos de referencia
 
 O projeto inspira-se nos brinquedos de empilhamento em madeira associados à pedagogia Montessori, destacando a simplicidade formal, a interação manual e a aprendizagem através da exploração. A forma da pera serviu como referência para o desenvolvimento do sistema modular, permitindo criar uma figura reconhecível e, simultaneamente, múltiplas combinações e formas imaginárias.
-![[parteemabrinquedos.png]]
+![](attachments/parteemabrinquedos.png)
 
 ## 9. Outros Elementos
 O desenvolvimento do projeto foi inspirado por diversas referências do design, da ilustração e do brinquedo educativo. Destacam-se o trabalho da Maria Montessori, pela pedagogia utilizada, da exploração sensorial das crianças e da construção livre.
