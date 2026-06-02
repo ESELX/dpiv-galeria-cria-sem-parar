@@ -25,7 +25,7 @@ Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
 
 
-![626](attachments/placeholder.png)
+![237](attachments/placeholder.png)
 
 ## 2. Modelos 3D
 
