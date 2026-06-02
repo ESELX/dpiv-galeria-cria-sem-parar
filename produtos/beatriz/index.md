@@ -3,7 +3,7 @@ title: Nome do Produto
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/hero.png
 hero_title: Amigos
 hero_subtitle: Beatriz Domingues · 2025-26
 hero_height: 80vh
