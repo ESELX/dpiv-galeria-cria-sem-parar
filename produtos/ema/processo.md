@@ -24,7 +24,6 @@ Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 ![](attachments/brinquedofrutaiiemaii.png)
 
 
-![632](attachments/brinquedofrutaiiema.png)
 ![](attachments/brinquedofrutaemai.png)
 
 ## 3. Modelos 3D
@@ -35,7 +34,7 @@ Embed do Fusion (visualização do modelo paramétrico).
 
 ## 4. Outros Modelos
 
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
+Maquete feita em cartão para perceber a forma que ficaria a perâ em 3d
 
 ![](attachments/maqueteema.jpeg)
 

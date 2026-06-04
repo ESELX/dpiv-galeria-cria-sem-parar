@@ -66,12 +66,12 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Beatriz Domingues</p>
   </a>
   <a class="gallery-card" href="produtos/ema/">
-    <img src="produtos/ema/attachments/frutaema.jpeg" alt="" />
+    <img src="produtos/ema/attachments/brinquedofrutaemai.png" alt="" />
     <h3>Frutas</h3>
     <p>Ema Perez</p>
   </a>
    <a class="gallery-card" href="produtos/matilde/">
-    <img src="produtos/matilde/attachments/floramatilde.jpeg" alt="" />
+    <img src="produtos/matilde/attachments/fotoi.png" alt="" />
     <h3>Flora</h3>
     <p>Matilde Salgado</p>
   </a>
