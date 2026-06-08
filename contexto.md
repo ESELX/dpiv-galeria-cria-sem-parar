@@ -64,6 +64,7 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 A simplicidade formal dos tazos — baseada em formas circulares planas e sistemas intuitivos de utilização — serviu como principal referência para o desenvolvimento deste brinquedo. A ideia foi reinterpretar essa lógica modular através de peças em bambu produzidas por corte CNC, transformando um objeto associado à cultura popular infantil num sistema construtivo contemporâneo e sustentável.
 
 A escolha desta referência relaciona-se também com a intenção de criar um brinquedo acessível, intuitivo e aberto a múltiplas interpretações.
+
 - **Brinquedos empilháveis tradicionais** — Inspirado nos brinquedos Montessori, desenvolvidos a partir do método educativo criado por Maria Montessori, em Itália, no início do século XX.  
     A escolha deste objeto surgiu pelo uso de madeira e materiais naturais, pela interação infantil e pela simplicidade das formas e cores. O sistema de empilhar e encaixar permitiu explorar a criatividade e a aprendizagem através da brincadeira. A possibilidade de criar diferentes combinações de formas e tamanhos influenciou o desenvolvimento do sistema modular do projeto NESTOR, incentivando a personalização e a experimentação por parte da criança.- 
 
