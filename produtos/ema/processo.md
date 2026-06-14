@@ -39,7 +39,7 @@ Maquete feita em cartão para perceber a forma que ficaria a perâ em 3d
 ![](attachments/maqueteema.jpeg)
 
 ## 6. Esboços e Pranchas-Resumo
-(do mais recente para o mais antigo)
+
 
 ![](attachments/pranhcaresumo.png)
 ![](attachments/prancharesumoinicialema.jpeg)
@@ -62,6 +62,4 @@ O projeto inspira-se nos brinquedos de empilhamento em madeira associados à ped
 ## 9. Outros Elementos
 O desenvolvimento do projeto foi inspirado por diversas referências do design, da ilustração e do brinquedo educativo. Destacam-se o trabalho da Maria Montessori, pela pedagogia utilizada, da exploração sensorial das crianças e da construção livre.
 
-A nível visual, as ilustrações de Bernardo Carvalho, Enzo Mari inspiraram a simplificação formal, as formas orgânicas.
-
-Paralelamente fiz pesquisa acerca dos princípios da pedagogia Montessori, que valoriza a autonomia, a exploração sensorial e a aprendizagem através da experiência prática. Tal como nos materiais Montessori, o meu brinquedo tem como objetivo as crianças fazerem várias combinações de formas com as peças do meu brinquedo para explorarem a criatividade a motricidade fina .
+Fiz pesquisa sobre os princípios da pedagogia Montessori, que valoriza a autonomia, a exploração sensorial e a aprendizagem através da experiência prática.
