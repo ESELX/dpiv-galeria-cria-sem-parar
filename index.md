@@ -1,5 +1,5 @@
 ---
-title: Nome do Grupo
+title: Cria sem parar
 icon: lucide/users
 tags: galeria
 status: not-started
