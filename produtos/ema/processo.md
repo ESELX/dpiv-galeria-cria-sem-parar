@@ -34,12 +34,13 @@ Embed do Fusion (visualização do modelo paramétrico).
 
 ## 4. Outros Modelos
 
-Maquete feita em cartão para perceber a forma que ficaria a perâ em 3d e se as dimensões variam sentido entre si.
+Maquete de estudo feita em cartão para perceber a forma que ficaria a perâ em 3d e se as dimensões variam sentido entre si.
 
 ![](attachments/maqueteema.jpeg)
 
 ## 6. Esboços e Pranchas-Resumo
 
+Le-se de cima para baixo, a primeira prancha resumo é a final e em baixo tem a primeira prancha resumo feita no inicio do ano, onde vê se a evolução do projeto e a diferença do inicio para o fim. Também encontra-se aqui os meus esboços.
 
 ![](attachments/pranhcaresumo.png)
 ![](attachments/prancharesumoinicialema.jpeg)
