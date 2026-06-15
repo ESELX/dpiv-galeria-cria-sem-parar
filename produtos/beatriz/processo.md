@@ -33,7 +33,6 @@ segunda peça:[https://a360.co/4uGK87B](https://a360.co/4uGK87B)
 terceira peça:[https://a360.co/439YmSu](https://a360.co/439YmSu)
 base: [https://a360.co/3RCcxxb](https://a360.co/3RCcxxb)
 
-![](attachments/placeholder.png)
 ## 4. Esboços e Pranchas-Resumo
 
 Desenhos manuais, 
